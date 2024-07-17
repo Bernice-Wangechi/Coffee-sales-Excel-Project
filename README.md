@@ -42,6 +42,7 @@ Based on the analysis that I conducted, I recommend
 
                - Investing more in marketing because sales reduced significantly from 2021 to 2022
 
-
+### Limitations
+The data in 2022 was incomplete and ended in August, making it hard to do accurate comparisons for each year.
 
               
