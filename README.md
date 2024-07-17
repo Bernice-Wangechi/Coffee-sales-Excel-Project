@@ -1,8 +1,16 @@
 # Coffee-sales-Excel-Project
+## Table of contents
+- [Project Overview](Project-Overview)
+- [Tools Used](Tools-Used)
+- [Data Cleaning/Preparation](Tools-Used)
+- [Exploratory Data Analysis](Exploratory-Data-Analysis)
+- [Data Analysis](Tools-Used)
+- [Recommendations](Recommendations)
+- [Limitations](Limitations)
 ### Project Overview
 This project aimed to use coffee sales in the United States, Ireland, and the United Kingdom to answer some questions and provide insights to decision-makers. It is an interesting project because it answers some questions that people in coffee sales would have regarding the consumption of various coffee types.
 I used data from [Mo Chen's Github](https://github.com/mochen862/excel-project-coffee-sales)
-### Tools used 
+### Tools Used 
 Microsoft Excel 
 
                 - Data Cleaning 
@@ -10,7 +18,7 @@ Microsoft Excel
                 - Data analysis
                 
                 - Data Visualization 
-### Data cleaning/Preparation 
+### Data Cleaning/Preparation 
 In this stage, I performed the following tasks 
 
                 - Data loading and inspection to check for errors and blank values 
@@ -20,7 +28,7 @@ In this stage, I performed the following tasks
                 - Making the readability of columns easier by writing certain words in full
                 
                 - Transforming the clean data range to a table for easier analysis 
-### Exploratory data analysis 
+### Exploratory Data Analysis 
 Exploratory data analysis in my project involved asking questions like 
 
                 - What was the overall sales trend like?
