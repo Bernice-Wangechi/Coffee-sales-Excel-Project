@@ -10,6 +10,10 @@
 ### Project Overview
 This project aimed to use coffee sales in the United States, Ireland, and the United Kingdom to answer some questions and provide insights to decision-makers. It is an interesting project because it answers some questions that people in coffee sales would have regarding the consumption of various coffee types.
 I used data from [Mo Chen's Github](https://github.com/mochen862/excel-project-coffee-sales)
+
+![Coffee Sales Dashboard (1)](https://github.com/user-attachments/assets/5ace23e7-de13-4eaf-bfc5-79b80417c8f5)
+![Coffee Sales Dashboard (2)](https://github.com/user-attachments/assets/610812d3-1fcf-4da0-a34b-ef62b8ec46c4)
+
 ### Tools Used 
 Microsoft Excel 
 
